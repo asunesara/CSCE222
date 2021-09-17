@@ -1,0 +1,1558 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size larger
+Homework 4
+\begin_inset Newline newline
+\end_inset
+
+Ayaan Sunesara 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+Section 3.2
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+14.)
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+a.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $f(x)=x^{3}$
+\end_inset
+
+ and 
+\begin_inset Formula $g(x)=x^{2}$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $f(x)$
+\end_inset
+
+ is 
+\begin_inset Formula $O(g(x))$
+\end_inset
+
+ if there are constants of C and k for
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $|x^{3}|\leq C|x^{2}|$
+\end_inset
+
+ where x > k
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Now simplifying the equation you get 
+\begin_inset Formula $x\leq C$
+\end_inset
+
+ where x > k
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+This means that 
+\begin_inset Formula $C\geq0$
+\end_inset
+
+, but when 
+\begin_inset Formula $x\geq1$
+\end_inset
+
+ and it is 
+\begin_inset Formula $x\geq C$
+\end_inset
+
+, there is a contradiction
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\noindent
+Due to the contradiction, 
+\begin_inset Formula $x^{3}$
+\end_inset
+
+ is not 
+\begin_inset Formula $O(x^{2})$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+b.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $f(x)=x^{3}$
+\end_inset
+
+ and 
+\begin_inset Formula $g(x)=x^{3}$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $f(x)$
+\end_inset
+
+ is 
+\begin_inset Formula $O(g(x))$
+\end_inset
+
+ if there are constants of C and k for
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $|x^{3}|\leq C|x^{3}|$
+\end_inset
+
+ where x > k
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Now set C =1 and k=0
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $|x^{3}|\leq|x^{3}|$
+\end_inset
+
+ where 
+\begin_inset Formula $x>0$
+\end_inset
+
+.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+In the domain for x, any values will set the expression to be true.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\noindent
+Due to the justification, 
+\begin_inset Formula $x^{3}$
+\end_inset
+
+ is 
+\begin_inset Formula $O(x^{3})$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+c.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $f(x)=x^{3}$
+\end_inset
+
+ and 
+\begin_inset Formula $g(x)=x^{2}+x^{3}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $f(x)$
+\end_inset
+
+ is 
+\begin_inset Formula $O(g(x))$
+\end_inset
+
+ if there are constants of C and k for
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $|x^{3}|\leq C|x^{2}+x^{3}|$
+\end_inset
+
+ where x > k
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Let C = 1 and k = 0 while the domain is x > 0
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+The equation will now turn out to be 
+\begin_inset Formula $|x^{3}|\leq|x^{2}+x^{3}|$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+With any x value in the domain, the expression above is true
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\noindent
+This justification makes 
+\begin_inset Formula $x^{3}$
+\end_inset
+
+ is 
+\begin_inset Formula $O(x^{2}+x^{3})$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+d.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $f(x)=x^{3}$
+\end_inset
+
+ and 
+\begin_inset Formula $g(x)=x^{2}+x^{4}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $f(x)$
+\end_inset
+
+ is 
+\begin_inset Formula $O(g(x))$
+\end_inset
+
+ if there are constants of C and k for
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $|x^{3}|\leq C|x^{2}+x^{4}|$
+\end_inset
+
+ where x > k
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Let C = 1 and k = 0 while the domain is x > 0
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+The equation will now turn out to be 
+\begin_inset Formula $|x^{3}|\leq|x^{2}+x^{4}|$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+With any x value in the domain, the expression above is true
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\noindent
+This justification makes 
+\begin_inset Formula $x^{3}$
+\end_inset
+
+ is 
+\begin_inset Formula $O(x^{2}+x^{4})$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+e.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $f(x)=x^{3}$
+\end_inset
+
+ and 
+\begin_inset Formula $g(x)=3^{x}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $f(x)$
+\end_inset
+
+ is 
+\begin_inset Formula $O(g(x))$
+\end_inset
+
+ if there are constants of C and k for
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $|x^{3}|\leq C|3^{x}|$
+\end_inset
+
+ where x > k
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Let C = 1 and k = 3 (any number to show a larger range) while the domain
+ is x > 3
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+The equation will now turn out to be 
+\begin_inset Formula $|x^{3}|\leq|3^{x}|$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+With any x value in the domain, the expression above is true
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\noindent
+This justification makes 
+\begin_inset Formula $x^{3}$
+\end_inset
+
+ is 
+\begin_inset Formula $O(3^{x})$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+f.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $f(x)=x^{3}$
+\end_inset
+
+ and 
+\begin_inset Formula $g(x)=\dfrac{x^{3}}{2}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $f(x)$
+\end_inset
+
+ is 
+\begin_inset Formula $O(g(x))$
+\end_inset
+
+ if there are constants of C and k for
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $|x^{3}|\leq C|\dfrac{x^{3}}{2}|$
+\end_inset
+
+ where x > k
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Let C = 2 and k = 0 while the domain is x > 0.
+ This also allows for the fraction to go away.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+The equation will now turn out to be 
+\begin_inset Formula $|x^{3}|\leq|3^{x}|$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+With any x value in the domain, the expression above is true as shown in
+ part b.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\noindent
+This justification makes 
+\begin_inset Formula $x^{3}$
+\end_inset
+
+ is 
+\begin_inset Formula $O(\dfrac{x^{3}}{2})$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+20.)
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $f(x)=log(n+1)$
+\end_inset
+
+ and 
+\begin_inset Formula $g(x)=log(n)$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $f(x)$
+\end_inset
+
+ is 
+\begin_inset Formula $O(g(x))$
+\end_inset
+
+ if there are constants of C and k for
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $log(n+1)\leq Clog(n)$
+\end_inset
+
+ where x > k
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Set C = 2 and k = 1
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $log(n+1)\leq2log(n)$
+\end_inset
+
+ where x > 1
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Rewritting the equation we get 
+\begin_inset Formula $log(n+1)\leq log(n^{2})$
+\end_inset
+
+ where x > 1
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\noindent
+By using the characteristic formula, 
+\begin_inset Formula $log(n+1)=O(log(n))$
+\end_inset
+
+ where x > 1 making it true.
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Now when 
+\begin_inset Formula $f(x)=log(n^{2}+1)$
+\end_inset
+
+ and 
+\begin_inset Formula $g(x)=log(n)$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $f(x)$
+\end_inset
+
+ is 
+\begin_inset Formula $O(g(x))$
+\end_inset
+
+ if there are constants of C and k for
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $log(n^{2}+1)\leq Clog(n)$
+\end_inset
+
+ where x > k
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Set C = 3 and k = 1
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $log(n^{2}+1)\leq3log(n)$
+\end_inset
+
+ where x > 1
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Rewritting the equation we get 
+\begin_inset Formula $log(n^{2}+1)\leq log(n^{3})$
+\end_inset
+
+ where x > 1
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\noindent
+By using the characteristic formula, 
+\begin_inset Formula $log(n^{2}+1)=O(log(n))$
+\end_inset
+
+ where x > 1 making it true.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+22.)
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+The functions can be ordered by the increasing or runtime.
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "85col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\noindent
+This would be 
+\begin_inset Formula $(log(n))^{3}$
+\end_inset
+
+, 
+\begin_inset Formula $\sqrt{n}log(n)$
+\end_inset
+
+, 
+\begin_inset Formula $n^{99}+n^{98}$
+\end_inset
+
+, 
+\begin_inset Formula $n^{100}$
+\end_inset
+
+, 
+\begin_inset Formula $1.5^{n}$
+\end_inset
+
+, 
+\begin_inset Formula $10^{n}$
+\end_inset
+
+, 
+\begin_inset Formula $(n!)^{2}$
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+26.)
+\begin_inset Newline newline
+\end_inset
+
+a.
+\begin_inset Newline newline
+\end_inset
+
+First to find the big O of the given function, the terms that are not significan
+t and needs to be taken out and the expression needs to be simplified.
+ The given equation is 
+\begin_inset Formula $(n^{3}+n^{2}log(n))(log(n)+1)+(17log(n)+19)(n^{3}+2)$
+\end_inset
+
+.
+ The first part of the given expression we know that 
+\begin_inset Formula $n^{3}>n^{2}$
+\end_inset
+
+ so we can take out 
+\begin_inset Formula $n^{2}$
+\end_inset
+
+ to make the equation 
+\begin_inset Formula $n^{3}(log(n)+1)+(17log(n)+19)(n^{3}+2)$
+\end_inset
+
+.
+ Additionally, 
+\begin_inset Formula $log(n)+1$
+\end_inset
+
+ can also be represented as 
+\begin_inset Formula $log(n)$
+\end_inset
+
+ and 
+\begin_inset Formula $17log(n)+19$
+\end_inset
+
+ can be represented as 
+\begin_inset Formula $log(n)$
+\end_inset
+
+ as well by eliminating the constants.
+ By simplifying the equation you would now get 
+\begin_inset Formula $n^{3}(log(n))+(log(n))(n^{3}+2)$
+\end_inset
+
+.
+ Lastly 
+\begin_inset Formula $n^{3}+2$
+\end_inset
+
+ is equivlent to 
+\begin_inset Formula $n^{3}$
+\end_inset
+
+.
+ The final equation would be 
+\begin_inset Formula $n^{3}(log(n))+(log(n))(n^{3})$
+\end_inset
+
+ which can be simplified to 
+\begin_inset Formula $2n^{3}(log(n))$
+\end_inset
+
+.
+ By taking the highest power we know that the Big O is 
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\noindent
+O(
+\begin_inset Formula $n^{3}(log(n)$
+\end_inset
+
+).
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+b.
+\begin_inset Newline newline
+\end_inset
+
+For the expression 
+\begin_inset Formula $(2^{n}+n^{2})(n^{3}+3^{n})$
+\end_inset
+
+, first you have to know that 
+\begin_inset Formula $2^{n}>n^{2}$
+\end_inset
+
+ so the first half of the expression will be turned into 
+\begin_inset Formula $(2^{n})(n^{3}+3^{n})$
+\end_inset
+
+.
+ Similarly for the second half of the expression, 
+\begin_inset Formula $3^{n}>n^{3}$
+\end_inset
+
+ so the second half of the expression will be turned into 
+\begin_inset Formula $(2^{n})(3^{n})$
+\end_inset
+
+.
+ Simplifying this, you get 
+\begin_inset Formula $6^{n}$
+\end_inset
+
+.
+ Now we know that the big O is
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\noindent
+O(
+\begin_inset Formula $6^{n}$
+\end_inset
+
+)
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+c.
+\begin_inset Newline newline
+\end_inset
+
+For the expression 
+\begin_inset Formula $(n^{n}+n2^{n}+5^{n})(n!+5^{n})$
+\end_inset
+
+, first you have to know that 
+\begin_inset Formula $n^{n}$
+\end_inset
+
+ is greater than 
+\begin_inset Formula $n2^{n}$
+\end_inset
+
+ and 
+\begin_inset Formula $5^{n}$
+\end_inset
+
+.
+ This would make the simplified expression to be 
+\begin_inset Formula $(n^{n})(n!+5^{n})$
+\end_inset
+
+.
+ Now for the second half of the expression, we know that 
+\begin_inset Formula $n!>5^{n}$
+\end_inset
+
+ so the simplified function would now be 
+\begin_inset Formula $(n^{n})(n!)$
+\end_inset
+
+.
+ This cannot be simplified anymore so the big O is 
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "50col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\noindent
+O(
+\begin_inset Formula $n^{n}n!$
+\end_inset
+
+)
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+\bar under
+Section 3.3
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+\bar default
+
+\begin_inset Newline newline
+\end_inset
+
+2.)
+\begin_inset Newline newline
+\end_inset
+
+To find the big O, we have to go through the main lines of code.
+ For the first for loop, 
+\begin_inset Quotes eld
+\end_inset
+
+for i := 1 to n
+\begin_inset Quotes erd
+\end_inset
+
+ this code runs n number of times making it O(n).
+ Similarly for the second for loop 
+\begin_inset Quotes eld
+\end_inset
+
+for j := 1 to n
+\begin_inset Quotes erd
+\end_inset
+
+ this line runs n times making it O(n).
+ Lastly, the last line of the code, t := t + i + j has 3 operations, 2 addition
+ and 1 assignment.
+ This makes that line of code O(3).
+ When all of the big O's are multiplied, you get 
+\begin_inset Formula $3n^{2}$
+\end_inset
+
+.
+ Now simplifying that to get the highest order and removing the constant,
+ you get 
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\noindent
+O(
+\begin_inset Formula $n^{2}$
+\end_inset
+
+)
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+4.)
+\begin_inset Newline newline
+\end_inset
+
+First there are two assignment operations outside of the loop.
+ Now regarding the loop, after every iteration, i doubles.
+ With this information we know that 
+\begin_inset Formula $n\geq2^{x}$
+\end_inset
+
+.
+ Here x represents the last value of the iteration of the loop.
+ Now when solving for x we get 
+\begin_inset Formula $x=log(n)$
+\end_inset
+
+.
+ Since there are two loops, you have to do 
+\begin_inset Formula $log(n)$
+\end_inset
+
+ twice to make it 
+\begin_inset Formula $2log(n)$
+\end_inset
+
+, but since in biig O, you always take the simplied highest order, you get
+ 
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "60col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\noindent
+O(
+\begin_inset Formula $log(n)$
+\end_inset
+
+)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

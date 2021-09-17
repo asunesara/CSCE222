@@ -1,0 +1,1139 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size larger
+Homework 2
+\begin_inset Newline newline
+\end_inset
+
+Ayaan Sunesara 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+Section 2.3
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+12.)
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+a.
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $f(n)=n-1$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+This function 
+\series bold
+is one-to-one 
+\series default
+because for every distinct n has a distinct y.
+ For example when you take a and b to be elements in Z, you would get f(a)
+ = f(b) where f(a) = a-1 and f(b) = b-1.
+ Setting the equations to eachother you get a=b.
+ Which proves the expression is one-to-one.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+b.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $f(n)=n^{2}+1$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+This function is
+\series bold
+ not one-to-one
+\series default
+ because there's not a distinct y for a distinct n.
+ This is due to the squared polynomial.
+ For example when you take a and b to be elements in Z, you would get f(a)
+ = f(b) where 
+\begin_inset Formula $f(a)=a^{2}+1$
+\end_inset
+
+ and 
+\begin_inset Formula $f(b)=b^{2}+1$
+\end_inset
+
+.
+ When you set the two equations together, you get 
+\begin_inset Formula $a^{2}=b^{2}$
+\end_inset
+
+ which you can rearrange to 
+\begin_inset Formula $a^{2}-b^{2}=0$
+\end_inset
+
+.
+ This can simplify to 
+\begin_inset Formula $(a-b)(a+b)=0$
+\end_inset
+
+ which when solving for a and b you would not necessrily get a = b making
+ it not one-to-one.
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+c.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $f(n)=n^{3}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+This function 
+\series bold
+is one-to-one 
+\series default
+because there's a distinct y for a distinct n.
+ This is due to the cubed polynomial.
+ For example when you take a and b to be elements in Z, you would get f(a)
+ = f(b) where 
+\begin_inset Formula $f(a)=a^{3}$
+\end_inset
+
+ and 
+\begin_inset Formula $f(b)=b^{3}$
+\end_inset
+
+.
+ When you set the two equations together, you get 
+\begin_inset Formula $a^{3}=b^{3}$
+\end_inset
+
+ which you can rearrange to 
+\begin_inset Formula $a^{3}-b^{3}=0$
+\end_inset
+
+.
+ This can simplify to 
+\begin_inset Formula $(a-b)(a^{2}+ab+b^{2})=0$
+\end_inset
+
+.
+ This shows that a can be equal to b at all times.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+d.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $f(n)=[\dfrac{n}{2}]$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+This function
+\series bold
+ 
+\series default
+is
+\series bold
+ not one-to-one 
+\series default
+because there's not a distinct y for a distinct n.
+ For example when you take a and b to be elements in Z, you would get f(a)
+ = f(b) to prove one-to-one.
+ Now plugging in a and b for n you get 
+\begin_inset Formula $[\dfrac{a}{2}]=[\dfrac{b}{2}]$
+\end_inset
+
+.
+ Simplifying the expression you get 
+\begin_inset Formula $[a]=[b]$
+\end_inset
+
+.
+ This expression doesn't guarantee that a and b will always be equal due
+ to values related to ceiling which is why this is not one-to-one because
+ a could be 1 while b could be equal to 2.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+14.)
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+a.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $f(m,n)=2m-n$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+This function 
+\series bold
+is onto
+\series default
+ because all values of 
+\begin_inset Formula $f(m,n)$
+\end_inset
+
+ for set Z has to have the values m and n in Z as well.
+ To prove this, let f(m,n) be equal to y and let m be equal to 0.
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $f(m,n)=2m-n$
+\end_inset
+
+
+\series bold
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+
+\begin_inset Formula $y=2*0-n$
+\end_inset
+
+
+\series bold
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+When plugging in the numbers and values you get 
+\begin_inset Formula $y=-n$
+\end_inset
+
+, making 
+\begin_inset Formula $n=-y$
+\end_inset
+
+
+\series bold
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+Using the values we get the numbers (0, -y) to be an element of Z where
+ there is a value for f(m,n).
+ This is why the function is onto 
+\series bold
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+b.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $f(m,n)=m^{2}-n^{2}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+This function is 
+\series bold
+not onto
+\series default
+ because all values of f(m,n) for an element say Z, has to have m and n
+ part of Z but in this expression m and n do not fit in Z.
+ To try to prove onto, let the function be equal to y.
+ So 
+\begin_inset Formula $f(m,n)=y$
+\end_inset
+
+.
+ We can now set y to be 
+\begin_inset Formula $y=m^{2}-n^{2}$
+\end_inset
+
+.
+ Now let n be equal to 0.
+ This makes the expression 
+\begin_inset Formula $y=m^{2}$
+\end_inset
+
+.
+ Now solving for m you would get 
+\begin_inset Formula $m=\sqrt{y}$
+\end_inset
+
+.
+ The points for this expression would now be 
+\begin_inset Formula $(\sqrt{y},0)$
+\end_inset
+
+.
+ For this pair a number such as 2 for f(n) cannot exist which makes the
+ function not onto.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+c.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $f(m,n)=m+n+1$
+\end_inset
+
+.
+\begin_inset Newline newline
+\end_inset
+
+This function 
+\series bold
+is onto
+\series default
+ because all values of 
+\begin_inset Formula $f(m,n)$
+\end_inset
+
+ for set Z has to have the values m and n in Z as well.
+ No to try to prove this function to be onto, set 
+\begin_inset Formula $f(m,n)=y$
+\end_inset
+
+.
+ When the function is set to y, then 
+\begin_inset Formula $y=m+n+1$
+\end_inset
+
+.
+ When setting 
+\begin_inset Formula $m=0$
+\end_inset
+
+, the equation turns into being 
+\begin_inset Formula $y=0+n+1$
+\end_inset
+
+.
+ Rearranging the equation to solve for n, 
+\begin_inset Formula $n=y-1$
+\end_inset
+
+.
+ Now for this expression we have 
+\begin_inset Formula $(0,y-1)$
+\end_inset
+
+ as the pair for 
+\begin_inset Formula $(m,n)$
+\end_inset
+
+ in set Z.
+ Now for 
+\begin_inset Formula $(0,y-1)$
+\end_inset
+
+, as values of elements in Z, there are values of all of f(m,n) in the set
+ Z.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+d.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $f(m,n)=|m|-|n|$
+\end_inset
+
+.
+\begin_inset Newline newline
+\end_inset
+
+This expression 
+\series bold
+is onto
+\series default
+ because all values of f(m,n) are elements of set Z if m and n are elements
+ of Z.
+ So now to look for this, let 
+\begin_inset Formula $f(m,n)=y$
+\end_inset
+
+ so this allows 
+\begin_inset Formula $y=|m|+|n|$
+\end_inset
+
+.
+
+\series bold
+ 
+\series default
+Let n be equal to 0 to make 
+\begin_inset Formula $y=|m|$
+\end_inset
+
+.
+ We can also set m to be equal to 0 in the normal equation to get 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+y=|n|
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+.
+ Now we can have two sets of m and n, where m = 0 and n = y and m = y and
+ n = 0.
+ With these points and by checking, we know that for all values of (0,y)
+ and (y,0) in set Z, there exists all the values for 
+\begin_inset Formula $f(m,n)$
+\end_inset
+
+.
+ This is why this expression is onto.
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+e
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $f(m,n)=m^{2}-4$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+This expression is 
+\series bold
+not onto
+\series default
+ because not all values of f(m,n) in set Z have values m and n that are
+ elements of set Z.
+ To prove this, 
+\begin_inset Formula $f(m,n)=y$
+\end_inset
+
+ so this allow 
+\begin_inset Formula $y=m^{2}-4$
+\end_inset
+
+.
+ We can notice that since the variable is being squared, the smallest value
+ that the expression can output is a -4 since 
+\begin_inset Formula $m\geq0$
+\end_inset
+
+.
+ This causes the function to not be onto since the expression doesn't cover
+ all the values in set Z.
+ The values only have a minimum of -4 due to the variable beiing squared.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+20.)
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+a.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $f(n)=2n$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+This expression 
+\series bold
+is one-to-one but not onto
+\series default
+.
+ To figure this out, when you take the expression, there is only one value
+ of n, a natural number, for every value of f(n).
+ To show this let n be equal to 
+\begin_inset Formula $2x_{1}$
+\end_inset
+
+ and let f(n) be equal to 
+\begin_inset Formula $2x_{2}$
+\end_inset
+
+.
+ where 
+\begin_inset Formula $f(x_{1})=f(x_{2})$
+\end_inset
+
+.
+ This makes 
+\begin_inset Formula $2x_{1}=2x_{2}$
+\end_inset
+
+ where by simplifying you get 
+\begin_inset Formula $x_{1}=x_{2}$
+\end_inset
+
+ which supports one-to-one.
+ Additionally to check if its onto, let n be equal to 2 and when plugged
+ into the expression, f(n) is equal to 4.
+ This makes the expression not onto because a preimage cannot have all values
+ of f(n).
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+b.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $f(n)=\dfrac{n}{4}$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+This expression 
+\series bold
+is onto but not one-to-one
+\series default
+ because when you let f(a) equal to f(b) where a and b are any natural number,
+ you get 
+\begin_inset Formula $\dfrac{a}{4}=\dfrac{b}{4}$
+\end_inset
+
+.
+ This expression doesn't guarantee that a = b since any variable can have
+ a ceiling to manipulate the answer which is why it is not one-to-one.
+ To check for onto, set the expression to be 
+\begin_inset Formula $y=\dfrac{n}{4}$
+\end_inset
+
+.
+ Solve this equation for n to get 
+\begin_inset Formula $n=4y$
+\end_inset
+
+.
+ When plugging 4y back into the original equation, you get 
+\begin_inset Formula $f(n)=\dfrac{4y}{4}$
+\end_inset
+
+.
+ Simplifying this expressing, you get 
+\begin_inset Formula $f(n)=y$
+\end_inset
+
+.
+ This proves that for every natural number in f(n) there is at least one
+ natural number as a pre-image.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+c.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $f(n)=\{n+1$
+\end_inset
+
+} if n is odd 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $f(n)=\{n-1\}$
+\end_inset
+
+ if n is even
+\begin_inset Newline newline
+\end_inset
+
+This expression 
+\series bold
+is both one-to-one and onto
+\series default
+.
+ To check one-to-one, let f(a) equal to f(b) where a and b are any natural
+ number, you get 
+\begin_inset Formula $a+1=b-1$
+\end_inset
+
+.
+ When you simplify this expression, you get 
+\begin_inset Formula $a=b$
+\end_inset
+
+.
+ Additionally when you assume a and b to be even and natural number, 
+\begin_inset Formula $a=b$
+\end_inset
+
+ will be replace as 
+\begin_inset Formula $a-1=b-1$
+\end_inset
+
+.
+ By simplifying this, you get 
+\begin_inset Formula $a=b$
+\end_inset
+
+.
+ This proves that the expressions given is one-to-one.
+ Additionally, this expression is onto because for any number in f(n), by
+ plugging in a value for n, the value will come out to be odd or even depending
+ in which expression it is plugged into.
+ This is why the expression is both one-to-one and onto.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+d.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $f(n)=0$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+This expression is 
+\series bold
+not one-to-one and is not onto
+\series default
+.
+ The expression is not one-to-one, because for any value of n, there is
+ only one value of f(n) which exists.
+ To check one-to-one, make f(a) equal to f(b) where a does not equal to
+ b.
+ This woulf make the expression be 0 = 0 which contradicts the parameter
+ a doesn't equal to b.
+ Furthermore, this function is not onto, because for n where it is a natural
+ number in f(n), there isn't a value for n that is able to be an pre-image
+ or image.
+ This is why the function is not one-to-one or onto.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+22.)
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+a.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $f(x)=-3x+4$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+This expression 
+\series bold
+is a bijection
+\series default
+, meaning it is both one-to-one and onto.
+ First to prove one-to-one, set the expresion with two different variables
+ equal to eachother to figure out if one-to-one.
+ By setting 
+\begin_inset Formula $-3y+4=-3z+4$
+\end_inset
+
+ by solving for the variables you get 
+\begin_inset Formula $y=z$
+\end_inset
+
+.
+ This shows that for every y there is only one z, proving one-to-one.
+ Furthermore, to prove onto, set the expression equal to y.
+ Making the expression 
+\begin_inset Formula $y=-3x+4$
+\end_inset
+
+.
+ When the expression is solved for the value of x, you get 
+\begin_inset Formula $\dfrac{-y+4}{3}$
+\end_inset
+
+.
+ Now using this value of x to plug into the given expression, you get 
+\begin_inset Formula $y=y$
+\end_inset
+
+ which proves the expression is onto because for every natural number in
+ the set of y, there is at least one natural numbered pre-image of y.
+ This is how the expression is both one-to-one and onto.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+b.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $f(x)=-3x^{2}+7$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+This function is 
+\series bold
+not a bijection
+\series default
+ because the function needs to be both one-to-one and onto.
+ To check one-to-one, set f(a) and f(b) to eachother.
+ This makes 
+\begin_inset Formula $-3a^{2}+7=-3b^{2}+7$
+\end_inset
+
+.
+ When the expression is simpified, you get 
+\begin_inset Formula $a^{2}=b^{2}$
+\end_inset
+
+ which from a previous question we know is not one-to-one.
+ This is why this function is not a bijection since one of the requirements
+ fails.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+c.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $f(x)=\dfrac{x+1}{x+2}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+This function is 
+\series bold
+not a bijection
+\series default
+ because the function needs to be both one-to-one and onto.
+ For this expression since the given domain is all real numbers, the expression
+ has a hole at x = -2 since thats when the denominator is 0 making y not
+ a natural number.
+ Because the domain of this function, all real numbers could not be met,
+ this function is not a bijection.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+d.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $f(x)=x^{5}+1$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+This function 
+\series bold
+is a bijection
+\series default
+ because the function is both one-to-one and onto.
+ First to check on-to-one, set f(a) and f(b) to eachtother.
+ This would make the equation, 
+\begin_inset Formula $a^{5}+1=b^{5}+1$
+\end_inset
+
+.
+ When simplifying the equation, you get 
+\begin_inset Formula $a^{5}=b^{5}$
+\end_inset
+
+.
+ Since the exponent is odd, we know that a=b making the function one-to-one.
+ Next to check if the function is onto, set the equation to be equal to
+ 
+\begin_inset Formula $y=x^{5}+1$
+\end_inset
+
+.
+ Solve for x to get 
+\begin_inset Formula $x=\sqrt[5]{y-1}$
+\end_inset
+
+.
+ Taking x into the given equation and plugging it in, you get, 
+\begin_inset Formula $f(x)=\sqrt[5]{y-1}^{5}+1$
+\end_inset
+
+ which makes f(x) = y.
+ This proves that for every natural number in f(x) there is at least one
+ natural number as a pre-image.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+60.)
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+a.
+\begin_inset Newline newline
+\end_inset
+
+To encode 4 bits of data, you need divide the number of bits by 8 since
+ there are 8 bits in one byte.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $y=\dfrac{n}{8}$
+\end_inset
+
+, now plug in 4 for n to get 
+\begin_inset Formula $\dfrac{1}{2}$
+\end_inset
+
+.
+ Since we need the number of bytes as a whole, we have to round up to get
+ an answer of 
+\series bold
+1 byte
+\series default
+.
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+b.
+\begin_inset Newline newline
+\end_inset
+
+With the same method above of using 
+\begin_inset Formula $y=\dfrac{n}{8}$
+\end_inset
+
+, plug in 10 for n to get 1.25 and when we round up we get 
+\series bold
+2 bytes
+\series default
+.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+c.
+\begin_inset Newline newline
+\end_inset
+
+With the same method above of using 
+\begin_inset Formula $y=\dfrac{n}{8}$
+\end_inset
+
+, plug in 500 for n to get 62.5 and when we round up we get 
+\series bold
+63 bytes
+\series default
+.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+d.
+\begin_inset Newline newline
+\end_inset
+
+With the same method above of using 
+\begin_inset Formula $y=\dfrac{n}{8}$
+\end_inset
+
+, plug in 3000 for n to get 375.
+ Here we don't need to round up since it is a whole number.
+ The answer will be 
+\series bold
+375 bytes
+\series default
+.
+\end_layout
+
+\end_body
+\end_document

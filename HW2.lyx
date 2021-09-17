@@ -1,0 +1,3839 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size larger
+Homework 2
+\begin_inset Newline newline
+\end_inset
+
+Ayaan Sunesara 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+Section 1.6
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+4.) 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+a.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ p = Kangaroos live in Africa
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ q = Kangaroos are marsupials
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$p 
+\backslash
+land q$
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+————————
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ q
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ Kangaroos are marsupials can be concluded by using the simplification rule
+ as shown above.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "50col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\noindent
+Simplification
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+b.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ p = It is hotter than 100 degrees today.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ q = The pollution is dangerous.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$p 
+\backslash
+lor q$
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot p$
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+————————
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ q
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ By using disjunctive syllogism a conclusion can be made by q that the pollution
+ is dangerous due by using 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot p$
+\end_layout
+
+\end_inset
+
+.
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "50col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\noindent
+Disjunctive Syllogism
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+c.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ p = Linda is an excellent swimmer.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ q = She can work as a lifeguard.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$p 
+\backslash
+rightarrow q$
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$p$
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+————————
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ q
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ By using Modus Ponens, you can utilize p, where Linda is an excellent swimmer
+ to conclude that she can work as a lifeguard, q.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "50col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\noindent
+Modus Ponens
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+d.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ p = Steve will work at a computer company this summer.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ q = Steve will be a beach bum.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$p$
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+————————
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$p 
+\backslash
+lor q$
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ By using the rule of addition, where p is given, a conclusion of 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$p 
+\backslash
+lor q$
+\end_layout
+
+\end_inset
+
+ which depicts Steve will work at a computer company this summer or he will
+ be a beach bum.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "50col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\noindent
+Addition
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+e.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ p = Work all night on thiis homework.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ q = I can answer all the questions.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ r = I will understand the material.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$p 
+\backslash
+rightarrow q$
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$q 
+\backslash
+rightarrow r$
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+————————
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$p 
+\backslash
+rightarrow r$
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ By utilizing hypothetical syllogism, 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$p 
+\backslash
+rightarrow r$
+\end_layout
+
+\end_inset
+
+can be concluded by basing the conclusion off of the given 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$p 
+\backslash
+rightarrow q$
+\end_layout
+
+\end_inset
+
+ and 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$q 
+\backslash
+rightarrow r$
+\end_layout
+
+\end_inset
+
+.
+ This helped distinguish hypothetical syllogism.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "50col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\noindent
+Hypothetical Syllogism
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+10.)
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+a.
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ p = I play hockey.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ q = I will be sore the next day.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$p 
+\backslash
+rightarrow q$
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot q$
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+————————
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot p$
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ A premise that still exists by reading the given is 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot q$
+\end_layout
+
+\end_inset
+
+.
+ By using 
+\bar under
+Modus Tollens
+\bar default
+ you can conclude that there is 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot p$
+\end_layout
+
+\end_inset
+
+ which is I did not play hockey.
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "65col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\noindent
+I did not play hockey.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+b.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ P(x) = I work on x(day).
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ Q(x) = It is sunny on x(day).
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ R(x) = It is partly sunny on x(day).
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+forall (P(x) 
+\backslash
+rightarrow (Q(x) 
+\backslash
+lor R(x))$
+\end_layout
+
+\end_inset
+
+ — Premise
+\begin_inset Formula $_{(1)}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$P(Monday) 
+\backslash
+lor P(Friday)$
+\end_layout
+
+\end_inset
+
+ — Premise
+\begin_inset Formula $_{(2)}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot Q(Tuesday)$
+\end_layout
+
+\end_inset
+
+ — Premise
+\begin_inset Formula $_{(3)}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot R(Friday)$
+\end_layout
+
+\end_inset
+
+ — Premise
+\begin_inset Formula $_{(4)}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$P(Monday) 
+\backslash
+rightarrow (Q(Monday) 
+\backslash
+lor R(Monday))$
+\end_layout
+
+\end_inset
+
+ —Instantiate lines 1 & 2
+\begin_inset Formula $_{(5)}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$P(Friday) 
+\backslash
+rightarrow (Q(Friday) 
+\backslash
+lor R(Friday))$
+\end_layout
+
+\end_inset
+
+ —Instantiate lines 1 & 2
+\begin_inset Formula $_{(6)}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$P(Friday) rightarrow Q(Friday)$
+\end_layout
+
+\end_inset
+
+ —Disjunctive Syllogism lines 3 & 4
+\begin_inset Formula $_{(7)}$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$P(Friday) 
+\backslash
+lor Q(Monday) 
+\backslash
+lor R(Monday))$
+\end_layout
+
+\end_inset
+
+ —Modus Ponens lines 2 & 5
+\begin_inset Formula $_{(8)}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+quad
+\end_layout
+
+\end_inset
+
+ Lines 7 & 8 equal to line 8 when Modus Ponens is implemented
+\begin_inset Newline newline
+\end_inset
+
+This shows that since she worked on Friday and it wasnt partly sunny means
+ the only option is it was sunny since the restriction 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$P(x) 
+\backslash
+rightarrow (Q(x) 
+\backslash
+lor R(x)$
+\end_layout
+
+\end_inset
+
+ depicts that if you work it is either sunny or partly sunny.
+ Ultimately you know, if you work on Monday it was sunny or partly sunny
+ or if you work on Friday it was sunny.
+\begin_inset Newline newline
+\end_inset
+
+ 
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "65col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\noindent
+On Monday it is sunny or partly sunny or on Friday it is sunny.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+c.
+ 
+\begin_inset Newline newline
+\end_inset
+
+P(x) = x an insect
+\begin_inset Newline newline
+\end_inset
+
+Q(x) = x has six legs.
+\begin_inset Newline newline
+\end_inset
+
+R(x,y) = x eats y.
+\begin_inset Newline newline
+\end_inset
+
+P(d) = is dragonfly
+\begin_inset Newline newline
+\end_inset
+
+Q(s) = spider has six legs
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+forall (P(x) 
+\backslash
+rightarrow Q(x))$
+\end_layout
+
+\end_inset
+
+—Premise
+\begin_inset Formula $_{(1)}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$P(d)$
+\end_layout
+
+\end_inset
+
+— Premise
+\begin_inset Formula $_{(2)}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot Q(s)$
+\end_layout
+
+\end_inset
+
+— Premise
+\begin_inset Formula $_{(3)}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$R(s,d)$
+\end_layout
+
+\end_inset
+
+— Premise
+\begin_inset Formula $_{(4)}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$P(d) 
+\backslash
+rightarrow Q(d)$
+\end_layout
+
+\end_inset
+
+ — Instantiation line 2
+\begin_inset Formula $_{(5)}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$P(s) 
+\backslash
+rightarrow Q(s)$
+\end_layout
+
+\end_inset
+
+ — Instantiation line 3
+\begin_inset Formula $_{(6)}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$Q(d)$
+\end_layout
+
+\end_inset
+
+ — Modus Ponens line 5
+\begin_inset Formula $_{(7)}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot P(s)$
+\end_layout
+
+\end_inset
+
+ — Modus Penens line 6
+\begin_inset Formula $_{(8)}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot P(s) 
+\backslash
+land Q(d)$
+\end_layout
+
+\end_inset
+
+ — Conjunction line 7 & 8
+\begin_inset Formula $_{(9)}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+By using the expression and simplifying it into words you get:
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "65col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\noindent
+Dragonflies have six legs and spiders are not insects.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+d.
+\series bold
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+P(x) = x is a student
+\begin_inset Newline newline
+\end_inset
+
+Q(x) = x has internet account.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+forall (P(x) 
+\backslash
+rightarrow Q(x))$
+\end_layout
+
+\end_inset
+
+—Premise
+\begin_inset Formula $_{(1)}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot Q(Homer)$
+\end_layout
+
+\end_inset
+
+— Premise
+\begin_inset Formula $_{(2)}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$Q(Maggie)$
+\end_layout
+
+\end_inset
+
+— Premise
+\begin_inset Formula $_{(3)}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$P(Homer) 
+\backslash
+rightarrow Q(Homer)$
+\end_layout
+
+\end_inset
+
+— Instantiation line 2
+\begin_inset Formula $_{(4)}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$P(Maggie) 
+\backslash
+rightarrow Q(Maggie)$
+\end_layout
+
+\end_inset
+
+ — Instantiation line 3
+\begin_inset Formula $_{(5)}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot P(Homer)$
+\end_layout
+
+\end_inset
+
+ — Modus Tollens line 2 & 4
+\begin_inset Formula $_{(6)}$
+\end_inset
+
+
+\series bold
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+By using the expression and simplifying it into words you get:
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "65col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\noindent
+Homer isn't a student.
+\end_layout
+
+\end_inset
+
+
+\series bold
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+16.)
+\series bold
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+a.
+\begin_inset Newline newline
+\end_inset
+
+P(x) = x is enrolled in university
+\begin_inset Newline newline
+\end_inset
+
+Q(x) = x has lived in a dorm.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+forall (P(x) 
+\backslash
+rightarrow Q(x))$
+\end_layout
+
+\end_inset
+
+—Premise
+\begin_inset Formula $_{(1)}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot Q(Mia)$
+\end_layout
+
+\end_inset
+
+— Premise
+\begin_inset Formula $_{(2)}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$P(Mia) 
+\backslash
+rightarrow Q(Mia)$
+\end_layout
+
+\end_inset
+
+— Instantiation line 2
+\begin_inset Formula $_{(3)}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot P(Mia)$
+\end_layout
+
+\end_inset
+
+ — Modus Tollens line 2 & 3
+\begin_inset Formula $_{(4)}$
+\end_inset
+
+
+\series bold
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+By using the rule of inferences, we can learn that Mia is not enrolled in
+ the uninversity which matches the conclusion that was given, so the argument
+ is 
+\series bold
+correct.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+b.
+\begin_inset Newline newline
+\end_inset
+
+P(x) = x's car is convertible
+\begin_inset Newline newline
+\end_inset
+
+Q(x) = x's car is fun to drive.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+forall (P(x) 
+\backslash
+rightarrow Q(x))$
+\end_layout
+
+\end_inset
+
+—Premise
+\begin_inset Formula $_{(1)}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot P(Isaac)$
+\end_layout
+
+\end_inset
+
+— Premise
+\begin_inset Formula $_{(2)}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$P(Isaac) 
+\backslash
+rightarrow Q(Isaac)$
+\end_layout
+
+\end_inset
+
+— Instantiation line 2
+\begin_inset Formula $_{(3)}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+By using the rule of inferences a logical answer could not be concluded
+ with the premises given because Isaac's car can be fun to drive but it
+ doesn't have to be a convertible.
+ This is why the arguement is 
+\series bold
+incorrect
+\series default
+ 
+\series bold
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Section 1.7
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+16.) 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Let p equal x + y + z = odd and let q equal to at least one of x, y, z is
+ odd
+\begin_inset Newline newline
+\end_inset
+
+Using contraposition you get 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot p$
+\end_layout
+
+\end_inset
+
+ and 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot q$
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+This equals to x + y + z = even and x, y, z are all even
+\begin_inset Newline newline
+\end_inset
+
+x = 2a, y = 2b, z = 2c —> where a,b,c are all numbers and are even due to
+ the contraposition of 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot q$
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Factoring the variables out, you get x+y+z = 2(a+b+c) =2d —> this depicts
+ how the answer is even when the numbers were even by using 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot p$
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+By using contraposition you know that if x + y + z is odd then one of the
+ integers x, y, or z has to be odd as well.
+
+\series default
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+18.)
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Let p equal to m*n which is even and let q equal to m and n which are even
+ numbers 
+\begin_inset Newline newline
+\end_inset
+
+Using contraposition you get 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot p$
+\end_layout
+
+\end_inset
+
+ and 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot q$
+\end_layout
+
+\end_inset
+
+
+\series bold
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+This equals to m*n which is odd for 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot p$
+\end_layout
+
+\end_inset
+
+ and m and n which are odd numbers for
+\series bold
+ 
+\series default
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot q$
+\end_layout
+
+\end_inset
+
+ 
+\series bold
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+To make odd numbers to satisfy 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot q$
+\end_layout
+
+\end_inset
+
+, make m = 2a + 1 and n = 2b + 1
+\begin_inset Newline newline
+\end_inset
+
+In the above equation a and b are integers and the equations are odd which
+ depicts 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot q$
+\end_layout
+
+\end_inset
+
+
+\series bold
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+Next to satisfy 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot p$
+\end_layout
+
+\end_inset
+
+, multiply m and n
+\begin_inset Newline newline
+\end_inset
+
+m*n —> (2a + 1) *(2b + 1
+\series bold
+) 
+\series default
+= 4ab + 2a + 2b + 1
+\series bold
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+By factoring the expression you get 2(2ab + a + b) + 1, which is odd
+\series bold
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+This shows that the m*n is odd which satisfies 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot p$
+\end_layout
+
+\end_inset
+
+.
+\series bold
+
+\begin_inset Newline newline
+\end_inset
+
+If m and n are integers and m*n is even then m is even or n is even by contrapos
+ition.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+20.)
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Let p equal to 3n+2 which is even and let q equal to n which is an even
+ number
+\begin_inset Newline newline
+\end_inset
+
+Using contraposition you get 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot p$
+\end_layout
+
+\end_inset
+
+ and 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot q$
+\end_layout
+
+\end_inset
+
+ to use for 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot q 
+\backslash
+rightarrow 
+\backslash
+lnot p$
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot p$
+\end_layout
+
+\end_inset
+
+ is equal to 3n+2 which is odd and 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot q$
+\end_layout
+
+\end_inset
+
+ is equal to n which is an odd number.
+\begin_inset Newline newline
+\end_inset
+
+To satisfy 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot q$
+\end_layout
+
+\end_inset
+
+ you make n = 2a +1 which is an odd value where a is an integer.
+\begin_inset Newline newline
+\end_inset
+
+By pluging n in 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot p$
+\end_layout
+
+\end_inset
+
+, you get 3(2a +1) +2
+\begin_inset Newline newline
+\end_inset
+
+Simplifying the equation you get 6a + 4 + 1 which can be rewritten as 2(3a
+ + 2) + 1 where 3a + 2 is an odd number and this satisifes 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot p$
+\end_layout
+
+\end_inset
+
+.
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+If 3n+2 is even then n is an even as well as shown by contraposition.
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+To prove by contradiction...
+\begin_inset Newline newline
+\end_inset
+
+Let p equal to 3n+2 which is even and let q equal to n which is an even
+ number.
+\begin_inset Newline newline
+\end_inset
+
+Using contradiction you get p and 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot q$
+\end_layout
+
+\end_inset
+
+ to use for 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$p 
+\backslash
+land 
+\backslash
+lnot q$
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+p is given and 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot q$
+\end_layout
+
+\end_inset
+
+ is equal to n which is an odd number.
+\begin_inset Newline newline
+\end_inset
+
+To satisfy 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot q$
+\end_layout
+
+\end_inset
+
+ you make n = 2a +1 which is an odd value where a is an integer.
+\begin_inset Newline newline
+\end_inset
+
+By pluging n in p, you get 3(2a +1) +2
+\begin_inset Newline newline
+\end_inset
+
+Simplifying the equation you get 6a + 4 + 1 which can be rewritten as 2(3a
+ + 2) + 1 where 3a + 2 is an odd number and this contradicts the given premise
+ p where 3n +2 is even.
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+Due to the contradiction we can prove that if 3n +2 is even then n is even
+ as well.
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+28.)
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Let p equal to n which is even and let q equal to 7n + 4, an even number.
+\begin_inset Newline newline
+\end_inset
+
+Using contraposition you get 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot p$
+\end_layout
+
+\end_inset
+
+ and 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot q$
+\end_layout
+
+\end_inset
+
+ to use for 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot p 
+\backslash
+leftrightarrow 
+\backslash
+lnot q$
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot p$
+\end_layout
+
+\end_inset
+
+ is equal to n is odd and 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot q$
+\end_layout
+
+\end_inset
+
+ is equal to 7n - 4, an odd number.
+\begin_inset Newline newline
+\end_inset
+
+To satisfy 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot p$
+\end_layout
+
+\end_inset
+
+ you make n = 2a +1 which is an odd value where a is an integer.
+\begin_inset Newline newline
+\end_inset
+
+By pluging n in 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot q$
+\end_layout
+
+\end_inset
+
+, you get 7(2a +1) +4
+\begin_inset Newline newline
+\end_inset
+
+Simplifying the equation you get 14a + 11 which is an odd number and this
+ satisifes 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+lnot q$
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+If n is an even number, if and only if 7n+4 is even as shown by contraposition.
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+Section 2.1
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+46.)
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+a.
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+There is at least one real number, x, where it's cubed is equal to -1.
+ 
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+This is 
+\series bold
+true
+\series default
+ because when you solve for x, you get x = -1 and no number other than the
+ solution will make the equation true.
+ This is done when you plug in -1, a real number into x, the product is
+ -1 which is equal to the number given.
+ This is one way to prove it.
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+b.
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+There is at least one number, x, that is smaller than itself added to one.
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+This is 
+\series bold
+true
+\series default
+ because if you solve the given equation you get 1 > 0 which is always true.
+ This makes the equation true since 1 is always greater than 0.
+ Additionally when you plug in a number for the x value, say 2, then the
+ expression will be 2+1 > 2.
+ If you simplify the expression you get 3 > 2 which is true.
+ This is an example to show that the equation is true.
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+c.
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+For all number, a number that is reduced by one is still a number.
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+This statement is 
+\series bold
+true
+\series default
+ because if you subtract an integer, 1, from another integer will always
+ end up with an integer.
+ For example, plug in a number for x say 2, then the expression will be
+ 2-1.
+ This expression is equal to 1 which is still a number making the expression
+ true.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+d.
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+For all numbers, a number that is squared is still a number.
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+This statement is 
+\series bold
+true
+\series default
+ because a number that is squared is equal to the number multiplied itself.
+ When an integer is multiplied with itself, the product will still be an
+ integer.
+ For example, if you use a number, say 2 and square it, the answer will
+ be 4.
+ This answer is still a number which makes the expression true.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+48.) 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+a.
+\begin_inset Newline newline
+\end_inset
+
+If you solve for x by taking the cube root of on both sides you get 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$x 
+\backslash
+geq 1$
+\end_layout
+
+\end_inset
+
+.
+ This then makes the answer to be {x 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+epsilon$
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$Z|x 
+\backslash
+geq 1}$
+\end_layout
+
+\end_inset
+
+}.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+b.
+\begin_inset Newline newline
+\end_inset
+
+For this expression if you solve for x by taking the square root of both
+ sides, you get x = 
+\begin_inset Formula $\pm\sqrt{2}$
+\end_inset
+
+.
+ Since the solution is not an integer but is an irrational number, the truth
+ set will be empty making it no solutions.
+ The solution will be {
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+emptyset$
+\end_layout
+
+\end_inset
+
+}.
+\series bold
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+c.
+\begin_inset Newline newline
+\end_inset
+
+When you try solving for x you start off from
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $x^{2}-x>0$
+\end_inset
+
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+rightarrow$
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Formula $x(x-1)>0$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+From there you can get solutions that will not be in the truth set which
+ are x = 0 and x = 1.
+ 
+\begin_inset Newline newline
+\end_inset
+
+The answer will be {x 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+epsilon$
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$Z|x < 0$
+\end_layout
+
+\end_inset
+
+ and 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$x > 1}$
+\end_layout
+
+\end_inset
+
+}.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+Section 2.2
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+2.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+a.
+ 
+\begin_inset Newline newline
+\end_inset
+
+Since we are talking about both sophomores at my school which is depicted
+ by A, and students who are taking discrete math at my school which is represent
+ed by B, we know there will be an intersection since both need to be present.
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$A 
+\backslash
+cap B$
+\end_layout
+
+\end_inset
+
+ 
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+This depicts that there are sophomores at my school and those specific sophomore
+s at my school are taking the match class.
+ This makes the answer:
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$A 
+\backslash
+cap B$
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+b.
+ 
+\begin_inset Newline newline
+\end_inset
+
+A set of sophmores at my school is represented by A, and those students
+ at my school taking discrete math is represented by B.
+\begin_inset Newline newline
+\end_inset
+
+To find those sophomores at my school who are not taking the math, you need
+ to subtract the students who are taking the math from the entire sample
+ to be left with the number of students not taking the math class and are
+ a sophomore.
+ That makes it to be A-B to find the 
+\begin_inset Quotes eld
+\end_inset
+
+leftovers
+\begin_inset Quotes erd
+\end_inset
+
+ not in the class.
+ The final expression would then be 
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$A - B$
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+c.
+\begin_inset Newline newline
+\end_inset
+
+A set of students at my school which are either sophmores or taking discrete
+ math shows that objects can be in A or in B making it an either or situation.
+ This expression would be best fit a union symbol making it cover both scenarios.
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$A 
+\backslash
+cup B$
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+d.
+\begin_inset Newline newline
+\end_inset
+
+This expression will be the opposite of part c, since we are looking at
+ the students at my school who are either not sophomores or not taking discrete
+ math.
+ This is another union case due to the either or situation but the variables
+ need a not sign because it symbolizes everyone but those who are sophomores
+ and those sophomores who are taking the math class.
+ This sentence will be resemebled best by
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+overline{
+\backslash
+rm A} 
+\backslash
+cup 
+\backslash
+overline{
+\backslash
+rm B}$
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

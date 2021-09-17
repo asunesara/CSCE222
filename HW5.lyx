@@ -1,0 +1,2472 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size larger
+Homework 5
+\begin_inset Newline newline
+\end_inset
+
+Ayaan Sunesara 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+Section 2.4
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+12.)
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+a.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=-3a_{n-1}+4a_{n-2}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=0$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Let n equal to n-1
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n-1}=0$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Let n equal to n-2
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n-2}=0$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+When substituting you get
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=-3*0+4*0$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=0$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+This shows that the sequence is a solution for the recurrence relation
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+b.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=-3a_{n-1}+4a_{n-2}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=1$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Let n equal to n-1
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n-1}=1$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Let n equal to n-2
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n-2}=1$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+When substituting you get
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=-3*1+4*1$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=1$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+This shows that the sequence is a solution for the recurrence relation
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+c.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=-3a_{n-1}+4a_{n-2}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=(-4)^{n}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Let n equal to n-1
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n-1}=(-4)^{n-1}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Let n equal to n-2
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n-2}=(-4)^{n-2}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+When substituting you get
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=-3((-4)^{n-1})+4((-4)^{n-2})$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=(-3)*(-4)(-4)^{n-2}+4(-4)^{n-2}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=12(-4)^{n-2}+4(-4)^{n-2}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=(-4)^{n-2}(12+4)$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=(-4)^{n-2}(16)$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=(-4)^{n-2}(4)^{2}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=(-4)^{n}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+This shows that the sequence is a solution for the recurrence relation
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+d.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=-3a_{n-1}+4a_{n-2}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=2(-4)^{n}+3$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Let n equal to n-1
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n-1}=2(-4)^{n-1}+3$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Let n equal to n-2
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n-2}=2(-4)^{n-2}+3$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+When substituting you get
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=-3(2(-4)^{n-1}+3)+4(2(-4)^{n-2}+3)$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=-6(-4)^{n-1}-9+8(-4)^{n-2}+12$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=-6(-4)^{n-1}+8(-4)^{n-2}+3$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=(-6)(-4)(-4)^{n-2}+8(-4)^{n-2}+3$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=24(-4)^{n-2}+8(-4)^{n-2}+3$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=(24+8)(-4)^{n-2}+3$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=(32)(-4)^{n-2}+3$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=(16*2)(-4)^{n-2}+3$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=2(4^{2})(-4)^{n-2}+3$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=2(-4)^{n}+3$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+This shows that the sequence is a solution for the recurrence relation
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+14.)
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+a.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=3$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Let n = 0
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{0}=3$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Let n = n- 1
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n-1}=3$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}-a_{n-1}=3-3=0$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+This shows 
+\begin_inset Formula $a_{n}=a_{n-1}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+The recurrence relation can be 
+\begin_inset Formula $a_{0}=3$
+\end_inset
+
+ and 
+\begin_inset Formula $a_{n}=a_{n-1}$
+\end_inset
+
+
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+b.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=2n$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Let n = 0
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{0}=0$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Let n = n- 1
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n-1}=2(n-1)$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n-1}=2n-2$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}-a_{n-1}=2n-(2n-2)$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}-a_{n-1}=2$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=a_{n-1}+2$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+The recurrence relation can be 
+\series default
+
+\begin_inset Formula $a_{0}=0$
+\end_inset
+
+ 
+\series bold
+and 
+\series default
+
+\begin_inset Formula $a_{n}=a_{n-1}+2$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+c.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=2n+3$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Let n = 0
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{0}=3$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Let n = n- 1
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n-1}=2(n-1)+3$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n-1}=2n+1$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}-a_{n-1}=2n+3-(2n+1)$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}-a_{n-1}=2n+3-2n-1$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}-a_{n-1}=2$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=a_{n-1}+2$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+The recurrence relation can be 
+\series default
+
+\begin_inset Formula $a_{0}=3$
+\end_inset
+
+ 
+\series bold
+and 
+\series default
+
+\begin_inset Formula $a_{n}=a_{n-1}+2$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+d.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=5^{n}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Let n = 0
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{0}=1$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Let n = n- 1
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n-1}=5^{n-1}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Now 
+\begin_inset Formula $a_{1}=5$
+\end_inset
+
+, 
+\begin_inset Formula $a_{2}=25$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Now 
+\begin_inset Formula $a_{1-1}=1$
+\end_inset
+
+, 
+\begin_inset Formula $a_{2-1}=5$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Here you can see that 
+\begin_inset Formula $a_{n-1}$
+\end_inset
+
+ needs to my multiplied by 5 to be equal to 
+\begin_inset Formula $a_{n}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+The recurrence relation can be 
+\series default
+
+\begin_inset Formula $a_{0}=1$
+\end_inset
+
+
+\series bold
+ and 
+\series default
+
+\begin_inset Formula $a_{n}=5a_{n-1}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+e.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=n^{2}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Let n = 0
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{0}=0$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Let n = n- 1
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n-1}=(n-1)^{2}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n-1}=n^{2}-2n+1$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}-a_{n-1}=n^{2}-(n^{2}-2n+1)$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}-a_{n-1}=2n-1$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=a_{n-1}+2n-1$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+The recurrence relation can be 
+\series default
+
+\begin_inset Formula $a_{0}=0$
+\end_inset
+
+ 
+\series bold
+and 
+\series default
+
+\begin_inset Formula $a_{n}=a_{n-1}+2n-1$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+f.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=n^{2}+n$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Let n = 0
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{0}=0$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Let n = n- 1
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n-1}=(n-1)^{2}+n-1$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n-1}=n^{2}-2n+1+n-1$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n-1}=n^{2}-n$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}-a_{n-1}=n^{2}+n-(n^{2}-n)$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}-a_{n-1}=n^{2}+n-n^{2}+n$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}-a_{n-1}=2n$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=a_{n-1}+2n$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+The recurrence relation can be 
+\series default
+
+\begin_inset Formula $a_{0}=0$
+\end_inset
+
+ 
+\series bold
+and 
+\series default
+
+\begin_inset Formula $a_{n}=a_{n-1}+2n$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+g.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=n+(-1)^{n}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Let n = 0
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{0}=1$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Let n = 1,2,3,4 to see the pattern
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{1}=1+(-1)^{1}=0$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{2}=2+(-1)^{2}=3$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{3}=3+(-1)^{3}=2$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{4}=4+(-1)^{4}=5$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+This shows that 
+\begin_inset Formula $a_{n}=-a_{n-1}+2n-1$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+The recurrence relation can be 
+\series default
+
+\begin_inset Formula $a_{0}=1$
+\end_inset
+
+ 
+\series bold
+and 
+\series default
+
+\begin_inset Formula $a_{n}=-a_{n-1}+2n-1$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+h.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=n!$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Let n = 0
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{0}=1$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Let n = 1
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=1!=1$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=2!=2$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=3!=6$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{n}=4!=24$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+This shows us that 
+\begin_inset Formula $a_{n}=n(a_{n-1})$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+The recurrence relation can be 
+\series default
+
+\begin_inset Formula $a_{0}=1$
+\end_inset
+
+ 
+\series bold
+and 
+\series default
+
+\begin_inset Formula $a_{n}=n(a_{n-1})$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+22.)
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+a.
+\begin_inset Newline newline
+\end_inset
+
+Given is equal to 
+\begin_inset Formula $a_{0}=50,000$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{0}=50,000$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Let n = years after 2017
+\begin_inset Newline newline
+\end_inset
+
+1000 every year + 5%(prev year salary)
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+The recurrence relation is
+\series default
+ 
+\begin_inset Formula $a_{n=}1000+1.05a_{n-1}$
+\end_inset
+
+ 
+\series bold
+and
+\series default
+ 
+\begin_inset Formula $a_{0}=50,000$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+b.
+\begin_inset Newline newline
+\end_inset
+
+For the year 2025, need to subtract 2025-2017 since n is the number of years
+ after 2017.
+\begin_inset Newline newline
+\end_inset
+
+n = 2025-2017=8
+\begin_inset Newline newline
+\end_inset
+
+n = 8
+\begin_inset Newline newline
+\end_inset
+
+Starting from 
+\begin_inset Formula $a_{8}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{8}=1000+1.05(a_{7})=83,421.88$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{7}=1000+1.05(a_{6})=78,497.03$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{6}=1000+1.05(a_{5})=73,806.69$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{5}=1000+1.05(a_{4})=69,339.71$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{4}=1000+1.05(a_{3})=65,085.44$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{3}=1000+1.05(a_{2})=61,033.75$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{2}1=000+1.05(a_{1})=57,175$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{1}=1000+1.05(a_{0})=53,500$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $a_{0}=50,000$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+After 8 years the salary will be $83,431.88
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+32.)
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+a.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $\sum_{j=0}^{8}(1+(-1)^{j})$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $\sum_{j=0}^{8}1$
+\end_inset
+
+ + 
+\begin_inset Formula $\sum_{j=0}^{8}(-1)^{j}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+9 + 
+\begin_inset Formula $\sum_{j=0}^{8}(-1)^{j}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Using sum of gemoetric series let 
+\begin_inset Formula $a_{0}=1$
+\end_inset
+
+, now
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $\dfrac{a_{0}(1-r^{n})}{1-r}$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $9+\dfrac{1(1-(-1)^{9})}{1+1}=9+\dfrac{1*2}{2}=10$
+\end_inset
+
+
+\series bold
+
+\begin_inset Newline newline
+\end_inset
+
+The summation is equal to 10
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+b.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $\sum_{j=0}^{8}3^{j}-2^{j}$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $\sum_{j=0}^{8}3^{j}$
+\end_inset
+
+ - 
+\begin_inset Formula $\sum_{j=0}^{8}2^{j}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Using sum of geometric series let 
+\begin_inset Formula $a_{0}=1$
+\end_inset
+
+ for both the summations, now
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $\dfrac{a_{0}(1-r^{n})}{1-r}$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $\dfrac{1(1-(3)^{9})}{1-3}-\dfrac{1(1-(2)^{9})}{1-2}=\dfrac{19682}{2}-\dfrac{511}{1}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $\dfrac{19682}{2}-\dfrac{511}{1}=9330$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+The summation is equal to 9330
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+c.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $\sum_{j=0}^{8}2*3^{j}+3*2^{j}$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $2\sum_{j=0}^{8}3^{j}$
+\end_inset
+
+ +3 
+\begin_inset Formula $\sum_{j=0}^{8}2^{j}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Using sum of geometric series let 
+\begin_inset Formula $a_{0}=1$
+\end_inset
+
+, now
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $\dfrac{a_{0}(1-r^{n})}{1-r}$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $\dfrac{2(1-3^{9})}{1-3}+\dfrac{3(1-2^{9})}{1-2}=\dfrac{39364}{2}-\dfrac{1533}{1}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $\dfrac{39364}{2}-\dfrac{1533}{1}=21215$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+The summation is equal to 21215
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+d.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $\sum_{j=0}^{8}2^{j+1}-2^{j}$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $\sum_{j=0}^{8}2^{j+1}$
+\end_inset
+
+ - 
+\begin_inset Formula $\sum_{j=0}^{8}2^{j}$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+Using sum of geometric series let 
+\begin_inset Formula $a_{0}=2$
+\end_inset
+
+ for the first summation and 
+\begin_inset Formula $a_{0}=1$
+\end_inset
+
+ for the second, now
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $\dfrac{a_{0}(1-r^{n})}{1-r}$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $\dfrac{2(1-2^{9})}{1-2}-\dfrac{1(1-2^{9})}{1-2}=\dfrac{1022}{1}-\dfrac{511}{1}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $\dfrac{1022}{1}-\dfrac{511}{1}=511$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+The summation is equal 511
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Section 5.1
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+8.)
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Since n is a non-negative integer, 
+\begin_inset Formula $n\geq0$
+\end_inset
+
+.
+ Now: 
+\begin_inset Newline newline
+\end_inset
+
+P(n) = 
+\begin_inset Formula $\sum_{j=0}^{n}2(-7)^{n}=\dfrac{1-(-7)^{n+1}}{4}$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+For the basis check if P(0) holds 
+\begin_inset Newline newline
+\end_inset
+
+P(0) = 
+\begin_inset Formula $\sum_{j=0}^{0}2(-7)^{0}=\dfrac{1-(-7)^{0+1}}{4}$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+Since both sides equals to 2, the basis, P(0) holds.
+\begin_inset Newline newline
+\end_inset
+
+For the inductive step, P(k) 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+rightarrow$
+\end_layout
+
+\end_inset
+
+ P(k+1) where 
+\begin_inset Formula $k\geq n$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+P(k) = 
+\begin_inset Formula $\sum_{j=0}^{k}2(-7)^{k}=\dfrac{1-(-7)^{k+1}}{4}$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+P(k+1) = 
+\begin_inset Formula $\sum_{j=0}^{k+1}2(-7)^{k+1}=\dfrac{1-(-7)^{k+2}}{4}$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+P(k+1) = 
+\begin_inset Formula $\sum_{j=0}^{k}2(-7)^{k}+2(-7)^{k+1}$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+P(k+1) = 
+\begin_inset Formula $\dfrac{1-(-7)^{k+1}}{4}+2(-7)^{k+1}$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+Get a common denominator for the second half of the equation
+\begin_inset Newline newline
+\end_inset
+
+P(k+1) = 
+\begin_inset Formula $\dfrac{1-(-7)^{k+1}}{4}+\dfrac{8(-7)^{k+1}}{4}$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+P(k+1) = 
+\begin_inset Formula $\dfrac{1+7(-7)^{k+1}}{4}$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+P(k+1) = 
+\begin_inset Formula $\dfrac{1-(-7)(-7)^{k+1}}{4}$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+P(k+1) = 
+\begin_inset Formula $\dfrac{1-(-7)^{k+2}}{4}$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+This shows that by mathematical induction that P(k) 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+rightarrow$
+\end_layout
+
+\end_inset
+
+ P(k+1) where P(n) is true.
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+12.)
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $\sum_{j=0}^{n}(-\dfrac{1}{2})^{j}=\dfrac{2^{n+1}+(-1)^{n}}{3*2^{n}}$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+Since n is a non-negative integer, 
+\begin_inset Formula $n\geq0$
+\end_inset
+
+.
+ Now: 
+\begin_inset Newline newline
+\end_inset
+
+P(n) = 
+\begin_inset Formula $\sum_{j=0}^{n}(-\dfrac{1}{2})^{j}=\dfrac{2^{n+1}+(-1)^{n}}{3*2^{n}}$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+For the basis check if P(0) holds 
+\begin_inset Newline newline
+\end_inset
+
+P(0)=
+\begin_inset Formula $\sum_{j=0}^{n}(-\dfrac{1}{2})^{0}=\dfrac{2^{0+1}+(-1)^{0}}{3*2^{0}}$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+Since both sides are equal to 1 the basis, P(0) holds.
+\begin_inset Newline newline
+\end_inset
+
+For the inductive step, P(k) 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+rightarrow$
+\end_layout
+
+\end_inset
+
+ P(k+1) where 
+\begin_inset Formula $n\geq k$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+P(k) = 
+\begin_inset Formula $\sum_{j=0}^{k}(-\dfrac{1}{2})^{k}=\dfrac{2^{k+1}+(-1)^{k}}{3*2^{k}}$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+By substituting you get:
+\begin_inset Newline newline
+\end_inset
+
+P(k+1) = 
+\begin_inset Formula $\sum_{j=0}^{k+1}(-\dfrac{1}{2})^{k+1}=\dfrac{2^{k+2}+(-1)^{k+1}}{3*2^{k+1}}$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+P(k+1) = 
+\begin_inset Formula $\sum_{j=0}^{k}(-\dfrac{1}{2})^{k}+(-\dfrac{1}{2})^{k+1}$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+P(k+1) = 
+\begin_inset Formula $\dfrac{2^{k+1}+(-1)^{k}}{3*2^{k}}+(-\dfrac{1}{2})^{k+1}$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+P(k+1) = 
+\begin_inset Formula $\dfrac{2^{k+1}+(-1)^{k}}{3*2^{k+1}}+\dfrac{(-1)^{k+1}}{2^{k+1}}$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+P(k+1) = 
+\begin_inset Formula $\dfrac{2^{k+2}-(1)(-1)^{k}}{3*2^{k+1}}$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+P(k+1) = 
+\begin_inset Formula $\dfrac{2^{k+2}+(-1)^{k+1}}{3*2^{k+1}}$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+This shows that by mathematical induction that P(k) 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+rightarrow$
+\end_layout
+
+\end_inset
+
+ P(k+1) where P(n) is true.
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+14.)
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $\sum_{k=1}^{n}k2^{k}=(n-1)2^{n+1}+2$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+Since n is a positive integer, 
+\begin_inset Formula $n\geq1$
+\end_inset
+
+.
+ Now: 
+\begin_inset Newline newline
+\end_inset
+
+P(n)=
+\begin_inset Formula $\sum_{k=1}^{n}k2^{k}=(n-1)2^{n+1}+2$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+For the basis check if P(1) holds 
+\begin_inset Newline newline
+\end_inset
+
+P(1)=
+\begin_inset Formula $\sum_{k=1}^{1}1*2^{1}=(1-1)2^{n+1}+2$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+Since both sides are equal to 2 the basis, P(1) holds.
+\begin_inset Newline newline
+\end_inset
+
+For the inductive step, P(j) 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+rightarrow$
+\end_layout
+
+\end_inset
+
+ P(j+1) where 
+\begin_inset Formula $n\geq j$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+P(j)=
+\begin_inset Formula $\sum_{k=1}^{j}k2^{k}=j2^{j}=(j-1)2^{j+1}+2$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+When substituting and rearranging:
+\begin_inset Newline newline
+\end_inset
+
+P(j+1)=
+\begin_inset Formula $\sum_{k=1}^{j+1}k2^{k}=(j+1)2^{j+1}=j2^{j+2}+2$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+P(j+1)=
+\begin_inset Formula $\sum_{k=1}^{j+1}k2^{k}+(j+1)2^{j+1}$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+P(j+1)=
+\begin_inset Formula $(j-1)2^{j+1}+2+(j+1)2^{j+1}$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+P(j+1)=
+\begin_inset Formula $2^{j+1}*2j+2$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+P(j+1)=
+\begin_inset Formula $(2^{j+2})j+2$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+This shows that by mathematical induction that P(j) 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+rightarrow$
+\end_layout
+
+\end_inset
+
+ P(j+1) where P(n) is true for 
+\begin_inset Formula $n\geq1$
+\end_inset
+
+.
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+18.)
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+a.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $P(n)=n!<n^{n}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $P(2)=2!<2^{2}=2<4$
+\end_inset
+
+
+\series bold
+
+\begin_inset Newline newline
+\end_inset
+
+P(2) is true since 2 < 4
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+b.
+\begin_inset Newline newline
+\end_inset
+
+For the basis, P(n) has to be true for any integer n that is greater than
+ 1.
+ By using P(2) from above,
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $P(2)=2!<2^{2}=2<4$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $2<4$
+\end_inset
+
+ is true 
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+This shows that the basis holds true since P(2) is true.
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+c.
+ The inductive hypothesis for P(n) is true for any integer n that is greater
+ than 1.
+ P(k) needs to be proved for 
+\begin_inset Formula $n\geq k$
+\end_inset
+
+ so the 
+\series bold
+inductive hypothesis is 
+\begin_inset Formula $P(k)=k!<k^{k}$
+\end_inset
+
+
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+d.
+\begin_inset Newline newline
+\end_inset
+
+The inductive step to prove the inductive hypothesis needs to first prove
+ that P(k) 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+rightarrow$
+\end_layout
+
+\end_inset
+
+ P(k+1).
+ By proving the implies expression P(k+1) = 
+\begin_inset Formula $(k+1)!<(k+1)^{k+1}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+e.
+\begin_inset Newline newline
+\end_inset
+
+To prove P(k+1) do the inductive step first: 
+\begin_inset Newline newline
+\end_inset
+
+P(k) = 
+\begin_inset Formula $k!<k^{k}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+P(k+1) = 
+\begin_inset Formula $(k+1)!<(k+1)^{k+1}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $(k+1)!=(k+1)k!$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+due to the I.H 
+\begin_inset Formula $k!=k^{k}$
+\end_inset
+
+ when related to 
+\begin_inset Formula $(k+1)k!$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+so now replacing the values
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $(k+1)!<(k+1)k^{k}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Since 
+\begin_inset Formula $k<k+1$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $(k+1)!<(k+1)(k+1)^{k}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $(k+1)!<(k+1)^{k+1}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+Due to the last statement proven, that shows that P(k+1) holds
+\series default
+ 
+\series bold
+true.
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+f.
+\begin_inset Newline newline
+\end_inset
+
+By using the proof of mathematical induction, due to the basis and the inductive
+ hypothesis being proven to be true, the inequality P(n) is also true for
+ any integer n that is greater than 1.
+ Additionally, the factorial expression doesn't increase faster than the
+ exponential expression for any integer where n is greater than 1.
+ This is also another way to look at to prove how the inequality is true.
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
